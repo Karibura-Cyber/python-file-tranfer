@@ -17,5 +17,5 @@
 <code>Enter file name</code><br>
 
 <h2>Video</h2>
-[![](http://img.youtube.com/vi/LcP6ck63SSc/0.jpg)](http://www.youtube.com/watch?v=LcP6ck63SSc "")
+http://www.youtube.com/watch?v=LcP6ck63SSc
 <hr>
