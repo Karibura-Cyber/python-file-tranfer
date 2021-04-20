@@ -17,5 +17,5 @@
 <code>Enter file name</code><br>
 
 <h2>Video</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LcP6ck63SSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/LcP6ck63SSc/0.jpg)](http://www.youtube.com/watch?v=LcP6ck63SSc "")
 <hr>
